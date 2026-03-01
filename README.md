@@ -48,6 +48,8 @@ The dataset appears to be a COVID-19 dataset, providing detailed information abo
 ### ➡️ SQL Queries and Insights :
 
 <img width="695" height="404" alt="Screenshot 2026-03-01 193759" src="https://github.com/user-attachments/assets/9f57ed8a-97e0-4b8b-a428-501e587ff9ca" />
+
+
 #### ➤ Explanation: 
 This query checks the dataset for missing values (NULL) in critical columns. Missing values could affect analysis accuracy.
 
