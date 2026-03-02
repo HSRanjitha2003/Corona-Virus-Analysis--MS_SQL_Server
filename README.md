@@ -1,7 +1,7 @@
 # "Corona-Virus Analysis" using MS SQL Server
 ► As a part of Data Analyst Internship at Mentorness, I have been tasked to analyse Corona-Virus Dataset using MS SQL Server.
 
-### 𝐓𝐚𝐬𝐤 𝟐 : Corona-Virus Analysis using MS SQL Server
+### Corona-Virus Analysis using MS SQL Server
 ### ➡️ Objective of the Project :
 
 - The objective of coronavirus analysis is to monitor how COVID-19 spreads and affects people by looking at data on cases, recoveries, and and deaths deaths in  differe different areas over time.
