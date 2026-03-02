@@ -1,3 +1,7 @@
+
+<img width="958" height="541" alt="Screenshot 2026-03-02 105839" src="https://github.com/user-attachments/assets/ea50049e-7cc8-4053-ac60-db97fda82cb0" />
+
+
 # "Corona-Virus Analysis" using MS SQL Server
 ► As a part of Data Analyst Internship at Mentorness, I have been tasked to analyse Corona-Virus Dataset using MS SQL Server.
 
